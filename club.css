@@ -1,0 +1,50 @@
+#img1{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+#img2{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+#img3{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+.pe{
+    text-decoration: dashed;
+    font-size: 30px;
+    
+}
+.p{
+width: 50%;
+}
+.img{
+width: 50%;
+}
+.se{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+body{
+    background-color: blueviolet;
+}
+.header{
+    background-color: bisque;
+}
+.main{
+    background-color: rgb(43, 195, 226);
+}
+span{
+    font-size: 90px ;
+}
+.footer{
+    background-color: brown;
+}
+h1{
+    font-family: inherit;
+    text-decoration: underline;
+}
